@@ -10,5 +10,5 @@ A React Native app with Google Vision API demo.
 >     npm i
 
 2) in **keys/google_api_key.ts**, put your Google API Key.
-3) Run with ***yarn start***.
+3) Run with ***npm run start***.
 

@@ -1,5 +1,5 @@
 # react-native-google-vision-demo
-A React Native with Google Vision API demo.
+A React Native app with Google Vision API demo.
 
 ## How to use
 
